@@ -36,31 +36,31 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Accuracy"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.26"/>
+            <entry key="value" type="xdouble" value="0.34"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.74"/>
+            <entry key="value" type="xdouble" value="0.66"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="#Correct"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="26"/>
+            <entry key="value" type="xint" value="34"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="#False"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="74"/>
+            <entry key="value" type="xint" value="66"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Cohen's kappa"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="-0.07324147933284987"/>
+            <entry key="value" type="xdouble" value="0.051724137931034454"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -82,10 +82,10 @@
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
     <entry key="node-bundle-version" type="xstring" value="5.3.2.v202409100934"/>
-    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
-    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
-    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.3.2.v202409100934"/>
+    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Scorer"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -108,6 +108,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="41faa852-e6c7-4e5e-b2eb-1c383e5bb541"/>
+        <entry key="file_store_id" type="xstring" value="2d519665-4af3-470a-ac18-a36c729f67a5"/>
     </config>
 </config>

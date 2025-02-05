@@ -1,0 +1,74 @@
+2025-02-05 16:33:03,814 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:03,848 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:03,848 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error trying to fetch workflow group content 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:03,849 : ERROR : main :  : KnimeBrowserView :  :  : Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 14)
+2025-02-05 16:33:30,238 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:30,273 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:30,273 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error trying to fetch workflow group content 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:33:30,273 : ERROR : main :  : KnimeBrowserView :  :  : Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 14)
+2025-02-05 16:34:20,033 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Login failed 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      TypeError: Cannot read properties of undefined (reading 'at') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:38:43,430 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:38:43,488 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:38:43,489 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error trying to fetch workflow group content 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2025-02-05 16:38:43,494 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: Problem fetching space items (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2025-02-05 16:39:13,276 : ERROR : Clear OSGi configuration :  : InvokeUpdateAction :  :  : Could not clean OSGi configuration area: C:\Users\huawei\.eclipse\org.eclipse.platform_4.31.0_903338280_win32_win32_x86_64\configuration\org.eclipse.osgi\141\0\.cp\os\win32\x86_64\localfile_1_0_0.dll
