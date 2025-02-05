@@ -1,0 +1,500 @@
+times,patient.vital_status,patient.gender,patient.race,patient.ethnicity,patient.days_to_birth,patient.drugs.drug.therapy_types.therapy_type,patient.stage_event.pathologic_stage,patient.stage_event.tnm_categories.pathologic_categories.pathologic_t,patient.stage_event.tnm_categories.pathologic_categories.pathologic_m
+621,0,male,NA,NA,-18658,NA,NA,t2b,NA
+1332,0,male,NA,NA,-20958,NA,NA,t3a,NA
+995,0,male,NA,NA,-17365,hormone therapy,NA,t4,NA
+671,0,male,NA,NA,-19065,NA,NA,t2b,NA
+1033,0,male,NA,NA,-25904,NA,NA,t3b,NA
+112,0,male,NA,NA,-19964,NA,NA,t3a,NA
+771,0,male,NA,NA,-25557,NA,NA,t3a,NA
+972,0,male,NA,NA,-20866,NA,NA,t3a,NA
+922,0,male,NA,NA,-21183,NA,NA,t2c,NA
+615,0,male,NA,NA,-20582,NA,NA,t3a,NA
+350,0,male,NA,NA,-23665,hormone therapy,NA,t3b,NA
+91,0,male,white,not hispanic or latino,-26753,NA,NA,t2c,NA
+212,0,male,white,not hispanic or latino,-26329,NA,NA,NA,NA
+671,0,male,white,not hispanic or latino,-23953,NA,NA,t3a,NA
+31,0,male,white,not hispanic or latino,-20880,NA,NA,t2c,NA
+395,0,male,white,not hispanic or latino,-20759,hormone therapy,NA,t3b,NA
+425,0,male,white,not hispanic or latino,-24321,NA,NA,t2c,NA
+60,0,male,white,not hispanic or latino,-23621,NA,NA,t2c,NA
+91,0,male,white,not hispanic or latino,-24837,NA,NA,t3a,NA
+731,0,male,white,not hispanic or latino,-20941,NA,NA,t2c,NA
+31,0,male,white,not hispanic or latino,-23649,NA,NA,t3a,NA
+396,0,male,white,not hispanic or latino,-26389,NA,NA,t2c,NA
+1065,0,male,white,not hispanic or latino,-24957,hormone therapy,NA,t4,NA
+943,0,male,white,not hispanic or latino,-24290,hormone therapy,NA,t3a,NA
+31,0,male,white,not hispanic or latino,-25780,NA,NA,t3b,NA
+62,0,male,white,not hispanic or latino,-23803,NA,NA,t3b,NA
+28,0,male,white,not hispanic or latino,-22433,NA,NA,t3b,NA
+1339,0,male,white,not hispanic or latino,-22068,NA,NA,t3b,NA
+365,0,male,white,not hispanic or latino,-24380,NA,NA,t3a,NA
+31,0,male,white,not hispanic or latino,-24257,NA,NA,t3b,NA
+700,0,male,white,not hispanic or latino,-20364,NA,NA,t3a,NA
+31,0,male,white,not hispanic or latino,-20392,NA,NA,t3a,NA
+458,0,male,white,not hispanic or latino,-24287,NA,NA,t2c,NA
+731,0,male,white,not hispanic or latino,-26480,NA,NA,t3a,NA
+62,0,male,white,not hispanic or latino,-17807,NA,NA,t3b,NA
+396,0,male,white,not hispanic or latino,-23101,NA,NA,t2c,NA
+486,0,male,white,not hispanic or latino,-23194,NA,NA,t3a,NA
+821,0,male,white,not hispanic or latino,-25233,hormone therapy,NA,t3b,NA
+304,0,male,white,not hispanic or latino,-22494,NA,NA,t3a,NA
+974,0,male,white,not hispanic or latino,-23529,NA,NA,t2c,NA
+1004,0,male,white,not hispanic or latino,-26390,NA,NA,t3a,NA
+91,0,male,white,not hispanic or latino,-21002,NA,NA,t3a,NA
+882,0,male,white,not hispanic or latino,-23924,NA,NA,t2b,NA
+378,0,male,white,not hispanic or latino,-18596,NA,NA,t3a,NA
+606,0,male,white,not hispanic or latino,-24904,NA,NA,t3b,NA
+595,0,male,white,not hispanic or latino,-21897,NA,NA,t2c,NA
+405,0,male,white,not hispanic or latino,-17523,NA,NA,t2c,NA
+537,0,male,white,not hispanic or latino,-20472,NA,NA,t2c,NA
+533,0,male,asian,not hispanic or latino,-22286,NA,NA,t3a,NA
+729,0,male,white,not hispanic or latino,-20409,NA,NA,t3b,NA
+245,0,male,NA,NA,-18447,NA,NA,t2c,NA
+530,0,male,white,not hispanic or latino,-18395,NA,NA,t3a,NA
+229,0,male,white,not hispanic or latino,-24072,NA,NA,t3a,NA
+448,0,male,white,not hispanic or latino,-21164,NA,NA,t2c,NA
+356,0,male,white,not hispanic or latino,-24617,NA,NA,t3b,NA
+182,0,male,white,not hispanic or latino,-19759,NA,NA,t3b,NA
+907,0,male,white,not hispanic or latino,-23758,NA,NA,t3a,NA
+1102,0,male,white,not hispanic or latino,-23368,NA,NA,t2c,NA
+738,0,male,white,not hispanic or latino,-17895,NA,NA,t2c,NA
+788,0,male,black or african american,not hispanic or latino,-20409,NA,NA,t3a,NA
+782,0,male,white,not hispanic or latino,-17127,NA,NA,t2c,NA
+724,0,male,white,not hispanic or latino,-24165,NA,NA,t2c,NA
+1061,0,male,white,not hispanic or latino,-22097,NA,NA,t3a,NA
+783,0,male,white,not hispanic or latino,-17980,NA,NA,t3a,NA
+850,0,male,white,not hispanic or latino,-20422,NA,NA,t2c,NA
+1195,0,male,white,not hispanic or latino,-24313,NA,NA,t4,NA
+1153,0,male,white,not hispanic or latino,-23669,NA,NA,t3b,NA
+842,0,male,white,not hispanic or latino,-23304,NA,NA,t3a,NA
+1403,0,male,white,not hispanic or latino,-18802,NA,NA,t2c,NA
+834,0,male,white,not hispanic or latino,-20854,NA,NA,t3a,NA
+790,0,male,white,not hispanic or latino,-24535,NA,NA,t2c,NA
+567,0,male,white,not hispanic or latino,-20558,NA,NA,t3a,NA
+397,0,male,white,not hispanic or latino,-25234,NA,NA,t3a,NA
+1272,0,male,white,not hispanic or latino,-22316,NA,NA,t2c,NA
+724,0,male,white,not hispanic or latino,-22760,NA,NA,t3a,NA
+926,0,male,white,not hispanic or latino,-21110,NA,NA,t3a,NA
+519,0,male,white,not hispanic or latino,-21942,NA,NA,t3a,NA
+822,0,male,white,not hispanic or latino,-23986,NA,NA,t3a,NA
+1491,0,male,white,not hispanic or latino,-21741,NA,NA,t2c,NA
+1860,0,male,white,not hispanic or latino,-16425,NA,NA,t2c,NA
+2542,0,male,NA,NA,-26181,NA,NA,t2c,NA
+663,0,male,NA,NA,-21292,NA,NA,t3b,NA
+295,0,male,white,not hispanic or latino,-22766,NA,NA,t3b,NA
+289,0,male,white,not hispanic or latino,-25154,NA,NA,t3a,NA
+285,0,male,white,not hispanic or latino,-26064,NA,NA,t2c,NA
+510,0,male,NA,NA,-18686,NA,NA,t3a,NA
+233,0,male,black or african american,not hispanic or latino,-21108,NA,NA,t3a,NA
+533,0,male,NA,NA,-23029,NA,NA,t3b,NA
+175,0,male,white,not hispanic or latino,-22475,NA,NA,t3b,NA
+170,0,male,white,not hispanic or latino,-25756,NA,NA,t3a,NA
+191,0,male,white,not hispanic or latino,-25050,NA,NA,t3a,NA
+9,0,male,white,not hispanic or latino,-23458,NA,NA,t2c,NA
+169,0,male,white,not hispanic or latino,-23937,NA,NA,t2c,NA
+350,0,male,black or african american,not hispanic or latino,-25965,NA,NA,t2c,NA
+172,0,male,white,not hispanic or latino,-25600,NA,NA,t3a,NA
+167,0,male,white,not hispanic or latino,-23183,NA,NA,t2c,NA
+259,0,male,white,not hispanic or latino,-19939,NA,NA,t3a,NA
+79,0,male,white,not hispanic or latino,-22793,NA,NA,t2c,NA
+52,0,male,white,not hispanic or latino,-19623,NA,NA,t3b,NA
+70,0,male,black or african american,not hispanic or latino,-24107,NA,NA,t3a,NA
+217,0,male,white,not hispanic or latino,-24621,NA,NA,t2c,NA
+526,0,male,white,not hispanic or latino,-19454,NA,NA,t2c,NA
+114,0,male,white,not hispanic or latino,-17982,NA,NA,t2c,NA
+285,0,male,white,not hispanic or latino,-24478,NA,NA,t2c,NA
+187,0,male,white,not hispanic or latino,-19616,NA,NA,t2c,NA
+1961,0,male,NA,NA,-23371,NA,NA,t3a,NA
+1946,0,male,NA,NA,-17014,NA,NA,t3a,NA
+821,0,male,NA,NA,-21209,NA,NA,t2c,NA
+756,0,male,NA,NA,-23104,NA,NA,t3a,NA
+314,0,male,NA,NA,-25561,NA,NA,t3a,NA
+162,0,male,NA,NA,-24305,NA,NA,t3a,NA
+129,0,male,NA,NA,-19466,NA,NA,t2c,NA
+524,0,male,NA,NA,-21054,NA,NA,NA,NA
+299,0,male,NA,NA,-21160,NA,NA,t3b,NA
+93,0,male,NA,NA,-26219,NA,NA,t3a,NA
+229,0,male,NA,NA,-22059,NA,NA,t2c,NA
+668,0,male,NA,NA,-21046,NA,NA,t3a,NA
+536,0,male,NA,NA,-20204,NA,NA,t3b,NA
+393,0,male,NA,NA,-24297,NA,NA,t3a,NA
+417,0,male,NA,NA,-24558,NA,NA,t3b,NA
+560,0,male,NA,NA,-21681,NA,NA,t3b,NA
+278,0,male,NA,NA,-20821,NA,NA,t2c,NA
+91,0,male,NA,NA,-22904,NA,NA,t3a,NA
+230,0,male,NA,NA,-23767,NA,NA,t2c,NA
+353,0,male,NA,NA,-25679,NA,NA,t3b,NA
+693,0,male,NA,NA,-23598,NA,NA,NA,NA
+216,0,male,NA,NA,-20587,NA,NA,t2c,NA
+264,0,male,NA,NA,-23458,NA,NA,t3a,NA
+172,0,male,NA,NA,-20734,NA,NA,t2c,NA
+197,0,male,NA,NA,-21748,NA,NA,t2c,NA
+295,0,male,NA,NA,-21530,NA,NA,t3a,NA
+128,0,male,NA,NA,-23603,NA,NA,t3b,NA
+197,0,male,NA,NA,-22499,NA,NA,t3b,NA
+203,0,male,NA,NA,-21506,NA,NA,t2c,NA
+156,0,male,NA,NA,-18875,NA,NA,t3a,NA
+117,0,male,NA,NA,-21769,NA,NA,t2c,NA
+216,0,male,NA,NA,-24380,NA,NA,t3a,NA
+82,0,male,NA,NA,-23472,NA,NA,t3a,NA
+131,0,male,NA,NA,-22626,NA,NA,t2c,NA
+145,0,male,NA,NA,-18648,NA,NA,t2c,NA
+32,0,male,asian,not hispanic or latino,-19144,NA,NA,t3a,NA
+70,0,male,white,not hispanic or latino,-22888,NA,NA,t3a,NA
+29,0,male,NA,NA,-25931,hormone therapy,NA,t3a,NA
+273,0,male,NA,NA,-19413,hormone therapy,NA,t3b,NA
+122,0,male,NA,NA,-27282,NA,NA,t3b,NA
+54,0,male,NA,NA,-28197,NA,NA,t3a,NA
+54,0,male,NA,NA,-25115,NA,NA,t3a,NA
+923,0,male,white,not hispanic or latino,-24797,NA,NA,t2c,NA
+2328,0,male,white,not hispanic or latino,-20166,NA,NA,t3a,NA
+1925,0,male,white,not hispanic or latino,-24249,NA,NA,t2c,NA
+1669,0,male,white,not hispanic or latino,-20851,NA,NA,NA,NA
+1649,0,male,white,not hispanic or latino,-22360,NA,NA,t3a,NA
+2110,0,male,NA,NA,-21305,NA,NA,t3b,NA
+1338,0,male,white,not hispanic or latino,-22472,NA,NA,t3a,NA
+554,0,male,white,not hispanic or latino,-22843,NA,NA,t2c,NA
+1718,0,male,NA,NA,-21721,NA,NA,t2c,NA
+1144,0,male,white,not hispanic or latino,-24936,NA,NA,t2c,NA
+1215,0,male,white,not hispanic or latino,-18723,NA,NA,t2c,NA
+848,0,male,white,not hispanic or latino,-21221,NA,NA,t3a,NA
+1501,0,male,NA,NA,-20403,NA,NA,t2b,NA
+1000,0,male,white,not hispanic or latino,-22010,NA,NA,t3b,NA
+1008,0,male,white,not hispanic or latino,-22565,NA,NA,t3a,NA
+822,0,male,white,not hispanic or latino,-21149,NA,NA,t3a,NA
+993,0,male,white,not hispanic or latino,-23480,NA,NA,t4,NA
+841,0,male,white,not hispanic or latino,-26603,NA,NA,t3a,NA
+804,0,male,white,not hispanic or latino,-26207,NA,NA,t4,NA
+101,0,male,white,not hispanic or latino,-22428,NA,NA,t3b,NA
+875,0,male,white,not hispanic or latino,-22176,NA,NA,t3a,NA
+851,0,male,white,not hispanic or latino,-20238,NA,NA,t2c,NA
+806,0,male,white,not hispanic or latino,-19149,NA,NA,t3b,NA
+846,0,male,white,not hispanic or latino,-21365,NA,NA,t2c,NA
+505,0,male,white,not hispanic or latino,-24887,NA,NA,t3a,NA
+518,0,male,white,not hispanic or latino,-22419,NA,NA,t2c,NA
+664,0,male,black or african american,not hispanic or latino,-19879,NA,NA,t2c,NA
+1393,0,male,NA,NA,-25126,NA,NA,t3b,NA
+390,0,male,white,not hispanic or latino,-19620,NA,NA,t3a,NA
+356,0,male,white,not hispanic or latino,-24399,NA,NA,t2c,NA
+1442,0,male,white,not hispanic or latino,-24381,NA,NA,t4,NA
+1014,0,male,white,not hispanic or latino,-22602,NA,NA,t2c,NA
+1608,0,male,NA,NA,-19568,NA,NA,t3a,NA
+1109,0,male,white,not hispanic or latino,-24388,NA,NA,t3a,NA
+1164,0,male,NA,NA,-17538,NA,NA,t2c,NA
+674,0,male,NA,NA,-24187,NA,NA,t3a,NA
+457,0,male,NA,NA,-21276,NA,NA,t2c,NA
+487,0,male,NA,NA,-19216,hormone therapy,NA,t3a,NA
+452,0,male,NA,NA,-18033,NA,NA,t2c,NA
+324,0,male,NA,NA,-16269,NA,NA,t3a,NA
+512,0,male,NA,NA,-23481,NA,NA,t2c,NA
+791,1,male,NA,NA,-19530,hormone therapy,NA,t3b,NA
+757,0,male,NA,NA,-22684,hormone therapy,NA,t3b,NA
+643,0,male,NA,NA,-20213,NA,NA,t3a,NA
+44,0,male,white,not hispanic or latino,-24898,NA,NA,t2c,NA
+570,0,male,NA,NA,-22039,NA,NA,t2c,NA
+112,0,male,NA,NA,-23297,NA,NA,t3a,NA
+63,0,male,white,not hispanic or latino,NA,NA,NA,t2a,NA
+77,0,male,black or african american,not hispanic or latino,-23636,NA,NA,t3a,NA
+162,0,male,white,not hispanic or latino,-25402,NA,NA,t3a,NA
+126,0,male,white,not hispanic or latino,-18734,NA,NA,t3a,NA
+104,0,male,white,not hispanic or latino,-24243,NA,NA,t2a,NA
+72,0,male,white,NA,NA,NA,NA,t3b,NA
+41,0,male,white,not hispanic or latino,-22129,NA,NA,t2c,NA
+149,0,male,white,not hispanic or latino,-27343,NA,NA,t2a,NA
+24,0,male,white,not hispanic or latino,-22768,NA,NA,t2c,NA
+41,0,male,white,not hispanic or latino,-20576,NA,NA,t2a,NA
+60,0,male,white,not hispanic or latino,-19699,NA,NA,t3b,NA
+51,0,male,white,not hispanic or latino,-18577,NA,NA,t2c,NA
+72,0,male,white,NA,-24278,NA,NA,t2c,NA
+89,0,male,white,not hispanic or latino,-24324,NA,NA,t3b,NA
+52,0,male,white,NA,NA,NA,NA,t2a,NA
+22,0,male,white,not hispanic or latino,-21703,NA,NA,t2c,NA
+64,0,male,black or african american,NA,-20122,NA,NA,t2c,NA
+81,0,male,white,not hispanic or latino,-21195,NA,NA,t2c,NA
+53,0,male,white,not hispanic or latino,-21883,NA,NA,t2c,NA
+113,0,male,white,not hispanic or latino,-21323,hormone therapy,NA,t3a,NA
+51,0,male,white,not hispanic or latino,-17065,NA,NA,t3b,NA
+63,0,male,white,not hispanic or latino,-24078,NA,NA,t3b,NA
+57,0,male,white,not hispanic or latino,-19188,NA,NA,t2c,NA
+62,0,male,white,not hispanic or latino,-22072,NA,NA,t2a,NA
+60,0,male,white,not hispanic or latino,-25688,NA,NA,t3a,NA
+34,0,male,white,not hispanic or latino,-18580,NA,NA,t2c,NA
+98,0,male,white,not hispanic or latino,-22366,NA,NA,t2c,NA
+32,0,male,NA,NA,-19207,NA,NA,t3b,NA
+45,0,male,white,not hispanic or latino,-24391,NA,NA,t2c,NA
+1,0,male,white,not hispanic or latino,-19663,NA,NA,t2c,NA
+102,0,male,white,not hispanic or latino,-26576,NA,NA,t2c,NA
+56,0,male,white,not hispanic or latino,-19894,NA,NA,t3b,NA
+1017,0,male,NA,NA,-19539,NA,NA,t3a,NA
+1,0,male,NA,NA,-17673,NA,NA,t2c,NA
+42,0,male,NA,NA,-21428,NA,NA,t3a,NA
+95,0,male,NA,NA,-19598,NA,NA,t2c,NA
+29,0,male,NA,NA,-25629,hormone therapy,NA,t3b,NA
+66,0,male,NA,NA,-20703,NA,NA,t2c,NA
+123,0,male,NA,NA,-18309,NA,NA,t2a,NA
+106,0,male,NA,NA,-15884,NA,NA,t2c,NA
+62,0,male,NA,NA,-17874,NA,NA,t2c,NA
+76,0,male,NA,NA,-20946,NA,NA,t2c,NA
+48,0,male,NA,NA,-22177,NA,NA,t3b,NA
+70,0,male,NA,NA,-24382,NA,NA,t3a,NA
+35,0,male,NA,NA,-20280,NA,NA,t3b,NA
+46,0,male,NA,NA,-17434,hormone therapy,NA,t2c,NA
+23,0,male,NA,NA,-20634,NA,NA,t3b,NA
+54,0,male,NA,NA,-24749,NA,NA,t2c,NA
+61,0,male,NA,NA,-24916,NA,NA,t3a,NA
+67,0,male,NA,NA,-23618,NA,NA,t2c,NA
+49,0,male,NA,NA,-24697,NA,NA,t3a,NA
+167,0,male,NA,NA,-19298,NA,NA,t2c,NA
+71,0,male,NA,NA,-22318,NA,NA,t2c,NA
+106,0,male,NA,NA,-22208,NA,NA,t2c,NA
+44,0,male,NA,NA,-25661,NA,NA,t2a,NA
+38,0,male,NA,NA,-20263,NA,NA,t2c,NA
+134,0,male,NA,NA,-18779,NA,NA,t2c,NA
+213,0,male,NA,NA,-26755,NA,NA,t3b,NA
+150,0,male,NA,NA,-22756,NA,NA,t2c,NA
+290,0,male,NA,NA,-23154,NA,NA,t3a,NA
+110,0,male,NA,NA,-22465,NA,NA,t2a,NA
+168,0,male,NA,NA,-25137,NA,NA,t2c,NA
+134,0,male,NA,NA,-23543,hormone therapy,NA,t3b,NA
+295,0,male,NA,NA,-21460,hormone therapy,NA,t3b,NA
+2315,0,male,white,not hispanic or latino,-22881,hormone therapy,NA,t3b,NA
+1949,0,male,white,not hispanic or latino,-20133,NA,NA,t3a,NA
+1780,0,male,white,not hispanic or latino,-21199,NA,NA,t2c,NA
+1329,1,male,white,not hispanic or latino,-20776,hormone therapy,NA,t3b,NA
+98,0,male,NA,NA,-17935,NA,NA,t3b,NA
+196,0,male,NA,NA,-17167,NA,NA,t2c,NA
+662,0,male,NA,NA,-24908,NA,NA,t2c,NA
+518,0,male,NA,NA,-20034,NA,NA,t3a,NA
+488,0,male,NA,NA,-20211,NA,NA,t3a,NA
+503,0,male,NA,NA,-22420,NA,NA,t3a,NA
+491,0,male,NA,NA,-21714,NA,NA,t2c,NA
+624,0,male,NA,NA,-28447,NA,NA,t2c,NA
+454,0,male,NA,NA,-23807,NA,NA,t2c,NA
+523,0,male,NA,NA,-23332,NA,NA,t3a,NA
+183,0,male,NA,NA,-23211,NA,NA,t2c,NA
+405,0,male,NA,NA,-24945,NA,NA,t3a,NA
+528,0,male,NA,NA,-20836,hormone therapy,NA,t3b,NA
+279,0,male,NA,NA,-19640,NA,NA,t2c,NA
+279,0,male,NA,NA,-23240,NA,NA,t3a,NA
+310,0,male,NA,NA,-24960,NA,NA,t2c,NA
+206,0,male,NA,NA,-19299,NA,NA,t2c,NA
+316,0,male,NA,NA,-22338,NA,NA,t2c,NA
+437,0,male,NA,NA,-23624,NA,NA,t2c,NA
+617,0,male,NA,NA,-20841,chemotherapy,NA,t2c,NA
+358,0,male,NA,NA,-25943,NA,NA,t2c,NA
+412,0,male,NA,NA,-24226,hormone therapy,NA,t3a,NA
+304,0,male,NA,NA,-21656,NA,NA,t2c,NA
+422,0,male,NA,NA,-22849,hormone therapy,NA,t3b,NA
+178,0,male,NA,NA,-20966,NA,NA,t3b,NA
+212,0,male,NA,NA,-26023,NA,NA,t3a,NA
+323,0,male,NA,NA,-23741,hormone therapy,NA,t3b,NA
+321,0,male,NA,NA,-24285,NA,NA,t3a,NA
+405,0,male,NA,NA,-24145,NA,NA,t3b,NA
+463,0,male,NA,NA,-24118,NA,NA,t3b,NA
+1237,0,male,NA,NA,-19662,NA,NA,t3a,NA
+386,0,male,NA,NA,-24299,NA,NA,t3a,NA
+934,0,male,NA,NA,-24081,NA,NA,t2c,NA
+1815,0,male,NA,NA,-20392,NA,NA,t2a,NA
+607,0,male,NA,NA,-20368,NA,NA,t2c,NA
+1349,0,male,NA,NA,-27741,hormone therapy,NA,t3b,NA
+1328,0,male,NA,NA,-24138,NA,NA,t3a,NA
+665,0,male,NA,NA,-24676,NA,NA,t2c,NA
+91,0,male,NA,NA,-20015,NA,NA,t2c,NA
+263,0,male,NA,NA,-23367,NA,NA,t2c,NA
+598,0,male,NA,NA,-23208,NA,NA,t3a,NA
+270,0,male,NA,NA,-22745,NA,NA,t3a,NA
+352,0,male,NA,NA,-22718,NA,NA,t2c,NA
+2859,0,male,NA,NA,-23483,NA,NA,t3b,NA
+1712,0,male,NA,NA,-20416,hormone therapy,NA,t3b,NA
+1359,0,male,NA,NA,-20768,hormone therapy,NA,t3a,NA
+1879,0,male,NA,NA,-24306,NA,NA,t2c,NA
+2364,0,male,NA,NA,-26415,NA,NA,t3b,NA
+3524,0,male,NA,NA,-18420,NA,NA,t2c,NA
+913,0,male,NA,NA,-21700,hormone therapy,NA,t3a,NA
+1659,0,male,NA,NA,-21063,hormone therapy,NA,t3b,NA
+4604,0,male,NA,NA,-19974,NA,NA,t2c,NA
+2056,0,male,NA,NA,-20547,NA,NA,t2c,NA
+2753,0,male,NA,NA,-25338,NA,NA,t2b,NA
+1498,0,male,NA,NA,-23144,NA,NA,t3b,NA
+3447,0,male,NA,NA,-25320,NA,NA,t3a,NA
+2040,0,male,NA,NA,-17074,NA,NA,t3a,NA
+1770,0,male,NA,NA,-25026,NA,NA,t2c,NA
+196,0,male,NA,NA,-20403,NA,NA,t3b,NA
+1386,0,male,NA,NA,-22731,hormone therapy,NA,t2c,NA
+1621,0,male,NA,NA,-23118,hormone therapy,NA,t3b,NA
+822,0,male,NA,NA,-21192,NA,NA,t2c,NA
+1054,0,male,NA,NA,-20869,NA,NA,t3a,NA
+1572,0,male,NA,NA,-22220,NA,NA,t2c,NA
+840,0,male,NA,NA,-20507,NA,NA,t3a,NA
+999,0,male,NA,NA,-24756,hormone therapy,NA,t3b,NA
+1063,0,male,NA,NA,-23803,NA,NA,t3a,NA
+692,0,male,NA,NA,-24845,NA,NA,t3a,NA
+637,0,male,NA,NA,-22830,NA,NA,t3b,NA
+637,0,male,NA,NA,-23644,hormone therapy,NA,t3b,NA
+2068,0,male,NA,NA,-23706,hormone therapy,NA,t3b,NA
+2553,0,male,NA,NA,-20337,NA,NA,t2b,NA
+668,0,male,NA,NA,-21499,NA,NA,t3a,NA
+1891,0,male,NA,NA,-20256,hormone therapy,NA,t3b,NA
+774,0,male,NA,NA,-25546,NA,NA,t3b,NA
+721,0,male,NA,NA,-22295,hormone therapy,NA,t3a,NA
+1439,0,male,NA,NA,-25284,hormone therapy,NA,t3b,NA
+83,0,male,NA,NA,-24041,NA,NA,t3a,NA
+2051,0,male,NA,NA,-19902,hormone therapy,NA,t3b,NA
+1973,0,male,NA,NA,-25851,hormone therapy,NA,t3b,NA
+804,0,male,NA,NA,-20888,NA,NA,t3a,NA
+2211,0,male,NA,NA,-20266,NA,NA,t3a,NA
+1635,0,male,NA,NA,-18560,NA,NA,t3a,NA
+3467,1,male,NA,NA,-22460,hormone therapy,NA,t3a,NA
+1559,0,male,NA,NA,-21793,NA,NA,t3b,NA
+1563,0,male,NA,NA,-20594,NA,NA,t2c,NA
+628,1,male,NA,NA,-23849,NA,NA,t3b,NA
+1438,0,male,NA,NA,-20425,NA,NA,t2c,NA
+158,0,male,NA,NA,-20357,NA,NA,t2c,NA
+209,0,male,NA,NA,-22785,NA,NA,t3a,NA
+302,0,male,NA,NA,-19642,NA,NA,t2c,NA
+204,0,male,NA,NA,-25585,NA,NA,t2c,NA
+717,0,male,NA,NA,-23880,NA,NA,t3a,NA
+62,0,male,NA,NA,-20064,hormone therapy,NA,t3b,NA
+483,0,male,NA,NA,-23595,hormone therapy,NA,t3a,NA
+96,0,male,NA,NA,-20474,NA,NA,t3b,NA
+173,0,male,NA,NA,-21846,NA,NA,t3a,NA
+97,0,male,NA,NA,-23710,NA,NA,t2c,NA
+1247,0,male,NA,NA,-21792,NA,NA,t2a,NA
+3487,0,male,NA,NA,-22286,NA,NA,t2c,NA
+1436,0,male,NA,NA,-19564,NA,NA,t2c,NA
+2620,0,male,NA,NA,-24212,NA,NA,t2a,NA
+112,0,male,NA,NA,-22185,NA,NA,t2b,NA
+27,0,male,NA,NA,-26976,NA,NA,NA,NA
+362,0,male,NA,NA,-23476,NA,NA,t3a,NA
+249,0,male,NA,NA,-22872,NA,NA,t2c,NA
+1254,0,male,NA,NA,-24090,NA,NA,t3a,NA
+857,0,male,NA,NA,-19710,NA,NA,t3b,NA
+1230,0,male,NA,NA,-21535,NA,NA,t3a,NA
+508,0,male,NA,NA,-15330,NA,NA,t2c,NA
+448,0,male,NA,NA,-23360,NA,NA,t2c,NA
+1019,0,male,NA,NA,-22265,NA,NA,t3a,NA
+1399,0,male,NA,NA,-20805,hormone therapy,NA,t3a,NA
+1375,0,male,NA,NA,-23725,NA,NA,t3a,NA
+476,0,male,NA,NA,-17520,NA,NA,t2c,NA
+474,0,male,NA,NA,-20805,NA,NA,t3b,NA
+686,0,male,NA,NA,-19345,hormone therapy,NA,t3b,NA
+709,0,male,NA,NA,-21900,hormone therapy,NA,t3b,NA
+202,0,male,NA,NA,-18980,NA,NA,t2c,NA
+1776,0,male,NA,NA,-23725,hormone therapy,NA,t4,NA
+2425,0,male,NA,NA,-22265,NA,NA,t3a,NA
+204,0,male,NA,NA,-20805,NA,NA,t3b,NA
+636,0,male,NA,NA,-22630,NA,NA,t3b,NA
+1184,0,male,NA,NA,-18250,NA,NA,t2c,NA
+1253,0,male,NA,NA,-23360,NA,NA,t2b,NA
+589,0,male,NA,NA,-24090,NA,NA,t3b,NA
+371,0,male,NA,NA,-24820,NA,NA,t3a,NA
+476,0,male,NA,NA,-22630,NA,NA,t2c,NA
+256,0,male,NA,NA,-20805,NA,NA,t2c,NA
+170,0,male,NA,NA,-21170,NA,NA,t3a,NA
+123,0,male,NA,NA,-20075,NA,NA,t3b,NA
+187,0,male,NA,NA,-21900,NA,NA,t3b,NA
+295,0,male,NA,NA,-23360,NA,NA,t2c,NA
+1117,0,male,NA,NA,-23725,NA,NA,t2c,NA
+86,0,male,NA,NA,-25185,NA,NA,t3b,NA
+1049,0,male,NA,NA,-25185,NA,NA,t3b,NA
+177,0,male,NA,NA,-25185,NA,NA,t4,NA
+269,0,male,NA,NA,-21576,NA,NA,t3a,NA
+776,0,male,NA,NA,-21524,hormone therapy,NA,t3a,NA
+394,0,male,NA,NA,-20026,NA,NA,t2c,NA
+183,0,male,NA,NA,-20157,NA,NA,t2c,NA
+176,0,male,NA,NA,-22695,NA,NA,t2c,NA
+481,0,male,NA,NA,-17945,NA,NA,t2c,NA
+917,0,male,NA,NA,-21916,NA,NA,t2c,NA
+1001,0,male,NA,NA,-22087,NA,NA,t2c,NA
+459,0,male,NA,NA,-19513,hormone therapy,NA,t2c,NA
+132,0,male,NA,NA,-26162,NA,NA,t2c,NA
+3253,0,male,NA,NA,-22098,NA,NA,t3a,NA
+805,0,male,NA,NA,-24742,NA,NA,t3a,NA
+2576,0,male,NA,NA,-16934,NA,NA,t2c,NA
+2704,0,male,NA,NA,-21402,hormone therapy,NA,t2c,NA
+728,1,male,NA,NA,-25799,NA,NA,t2b,NA
+2309,0,male,NA,NA,-23271,hormone therapy,NA,t2b,NA
+1690,0,male,NA,NA,-24608,NA,NA,t2c,NA
+1853,0,male,NA,NA,-19818,chemotherapy,NA,t3a,NA
+2037,0,male,NA,NA,-21811,NA,NA,t2c,NA
+663,0,male,NA,NA,-28060,NA,NA,t3b,NA
+1296,0,male,NA,NA,-20792,NA,NA,t3a,NA
+655,0,male,NA,NA,-23030,NA,NA,t3b,NA
+542,0,male,NA,NA,-25781,NA,NA,t3a,NA
+176,0,male,NA,NA,-25593,NA,NA,t2c,NA
+1131,0,male,NA,NA,-23999,hormone therapy,NA,t3b,NA
+846,0,male,NA,NA,-22571,NA,NA,t2c,NA
+119,0,male,NA,NA,-25090,NA,NA,t2c,NA
+762,0,male,NA,NA,NA,NA,NA,t3a,NA
+1157,0,male,NA,NA,NA,NA,NA,t3b,NA
+1280,0,male,NA,NA,NA,NA,NA,t2c,NA
+1461,0,male,NA,NA,NA,hormone therapy,NA,t3b,NA
+275,0,male,NA,NA,NA,NA,NA,t2c,NA
+91,0,male,NA,NA,NA,NA,NA,t2a,NA
+790,0,male,NA,NA,NA,hormone therapy,NA,t3b,NA
+972,0,male,NA,NA,-27703,NA,NA,t2c,NA
+958,0,male,NA,NA,-23325,hormone therapy,NA,t3b,NA
+972,0,male,NA,NA,-28721,NA,NA,t3b,NA
+868,0,male,NA,NA,-20604,NA,NA,t3a,NA
+930,0,male,NA,NA,-22771,NA,NA,t3a,NA
+889,0,male,NA,NA,-24320,NA,NA,t3a,NA
+824,0,male,NA,NA,-22643,NA,NA,t3a,NA
+1126,0,male,NA,NA,-27428,NA,NA,t3a,NA
+1206,0,male,NA,NA,-23958,NA,NA,t2c,NA
+614,0,male,NA,NA,-22965,NA,NA,t2c,NA
+146,1,male,NA,NA,-21889,NA,NA,NA,NA
+770,0,male,NA,NA,-24623,NA,NA,t3b,NA
+775,0,male,NA,NA,-23776,NA,NA,t3a,NA
+526,0,male,NA,NA,-26471,NA,NA,NA,NA
+148,0,male,NA,NA,NA,NA,NA,t3b,NA
+1611,0,male,NA,NA,-21416,hormone therapy,NA,t3b,NA
+1491,0,male,NA,NA,-21850,hormone therapy,NA,t3b,NA
+1173,0,male,NA,NA,-21249,hormone therapy,NA,t3b,NA
+1124,0,male,NA,NA,-24121,hormone therapy,NA,t3b,NA
+2183,0,male,NA,NA,-24509,NA,NA,t3a,NA
+1890,0,male,NA,NA,-25119,NA,NA,t3a,NA
+1842,0,male,NA,NA,-23204,NA,NA,t3a,NA
+512,0,male,NA,NA,-25340,NA,NA,t3b,NA
+1384,0,male,NA,NA,-22991,hormone therapy,NA,t3a,NA
+1261,0,male,NA,NA,-24206,hormone therapy,NA,t3a,NA
+1373,0,male,NA,NA,-22844,NA,NA,t3b,NA
+875,1,male,NA,NA,-25395,NA,NA,t3a,NA
+1441,0,male,NA,NA,-25292,hormone therapy,NA,t3a,NA
+1395,0,male,NA,NA,-21916,NA,NA,t3b,NA
+1155,0,male,NA,NA,-24759,hormone therapy,NA,t3b,NA
+798,0,male,NA,NA,-27033,hormone therapy,NA,t3b,NA
+3247,0,male,NA,NA,-23584,hormone therapy,NA,t3a,NA
+2170,0,male,NA,NA,-21455,hormone therapy,NA,t3b,NA
+1943,0,male,NA,NA,-22482,hormone therapy,NA,t3b,NA
+213,0,male,NA,NA,-23488,NA,NA,t3a,NA
+427,0,male,NA,NA,-24755,hormone therapy,NA,t3b,NA
+1259,0,male,NA,NA,-23184,NA,NA,t3a,NA
+1855,1,male,NA,NA,-17322,NA,NA,t3b,NA
+1897,0,male,NA,NA,-23272,hormone therapy,NA,t3b,NA
+740,0,male,NA,NA,-21626,hormone therapy,NA,t3a,NA
+1518,0,male,NA,NA,-25008,NA,NA,t3b,NA
+846,0,male,NA,NA,-21164,hormone therapy,NA,t3b,NA
+50,0,male,NA,NA,-26632,NA,NA,t3b,NA
+150,0,male,NA,NA,-20683,NA,NA,t2c,NA
+34,0,male,NA,NA,-24731,NA,NA,t3b,NA
+308,0,male,NA,NA,-23980,hormone therapy,NA,t3b,NA
+34,0,male,NA,NA,-27000,NA,NA,t4,NA
+68,0,male,NA,NA,-26055,NA,NA,t3b,NA
+1147,0,male,NA,NA,-24214,NA,NA,t3b,NA
+986,0,male,NA,NA,-25573,NA,NA,t3b,NA
+1108,0,male,NA,NA,-22388,NA,NA,t3b,NA
+854,0,male,NA,NA,-21293,NA,NA,t4,NA
+664,0,male,NA,NA,-23681,NA,NA,t3b,NA
+602,0,male,NA,NA,-22108,NA,NA,t3b,NA
+485,0,male,NA,NA,-26447,NA,NA,t3b,NA
+121,0,male,NA,NA,-26377,NA,NA,t3a,NA
+115,0,male,NA,NA,-21050,hormone therapy,NA,t3b,NA
+211,0,male,NA,NA,-23540,NA,NA,t3b,NA
+549,0,male,NA,NA,-24742,NA,NA,t3a,NA
+287,0,male,NA,NA,-21942,NA,NA,t3b,NA
+692,0,male,NA,NA,-24132,NA,NA,t3b,NA
+223,0,male,NA,NA,-24030,NA,NA,t3b,NA
+428,0,male,NA,NA,-25477,NA,NA,t3b,NA
+244,0,male,NA,NA,-26902,hormone therapy,NA,t3b,NA
+261,0,male,NA,NA,-20428,NA,NA,t3a,NA
+132,0,male,NA,NA,-26697,NA,NA,t3b,NA
